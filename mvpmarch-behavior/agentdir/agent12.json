@@ -1,0 +1,30 @@
+{
+    "name": "feeder_0_opendss",
+    "feeder_num": 0,
+    "loadname": "",
+    "control_parameters": {},
+    "model_parameters": {
+        "masterfile": "feederdata/p1uhs0_1247--p1udt104/Master_XZ.dss"
+    },
+    "logdir" : "agentdir",
+    "helics": {
+        "deltat": 1,
+        "subscription_topic": [],
+        "publication_topic": [
+            "feeder_0_voltage",
+            "feeder_0_psub",
+            "feeder_0_qsub"
+        ],
+        "endpoints": [
+            "feeder_0_opendss"
+        ]
+    },
+    "NN" :  102,
+    "dertype": "",
+    "model_type": "",
+    "type": "",
+    "opendss_resoution": 1,
+    "publication_interval": 1,
+    "endpoint_interval": 1,
+    "Agent": "powerflow"
+}

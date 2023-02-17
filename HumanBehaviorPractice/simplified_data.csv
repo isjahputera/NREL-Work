@@ -1,0 +1,21 @@
+Age,Socioeconomic,Housing,Citizenship,Dependancy,Politics,Education,Race,Ethnicity,Gender
+21,50000,Single Family Attatched,Visa,Single,Democrat,High School,White,Hispanic,Female
+19,30000,Single Family Detatched,Citizen,Married,Independent,High School,Black,na,Female
+30,75000,Apartment,Green Card,Single,Independent,Bachelors Degree,White,na,Male
+49,83000,Single Family Attatched,Green Card,Married,Independent,GED,White,Hispanic,Male
+55,130000,Single Family Attatched,Citizen,Separated,Republican,Graduate Degree,White,na,Female
+22,40000,Apartment,Green Card,Single,Independent,High School,Asian,na,Female
+26,60000,Multiple Family Home,Visa,Married,Democrat,Bachelors Degree,Black,na,Male
+18,28000,Mobile Home,Citizen,Single,Democrat,Other,White,Hispanic,Male
+65,60000,Multiple Family Home,Visa,Separated,Independent,Bachelors Degree,Asian,na,Female
+57,320000,Vintage Home,Citizen,Married,Republican,Graduate Degree,White,na,Male
+20,44000,Apartment,Citizen,Single,Republican,GED,White,na,Male
+32,65000,Apartment,Visa,Separated,Independent,Bachelors Degree,White,Hispanic,Female
+18,500000,Vintage Home,Citizen,Single,Democrat,High School,White,na,Female
+18,10000,Apartment,Citizen,Married,Republican,Other,White,na,Male
+54,130000,Single Family Attatched,Green Card,Married,Democrat,Graduate Degree,Black,Hispanic,Female
+56,96000,Mobile Home,Citizen,Married,Democrat,High School,Asian,na,Male
+43,180000,Single Family Attatched,Green Card,Separated,Independent,Graduate Degree,Asian,na,Male
+32,55000,Apartment,Citizen,Single,Democrat,Bachelors Degree,White,Hispanic,Female
+39,90000,Single Family Attatched,Green Card,Married,Republican,Graduate Degree,Asian,na,Male
+44,69000,Multiple Family Home,Visa,Separated,Independent,Bachelors Degree,White,na,Female

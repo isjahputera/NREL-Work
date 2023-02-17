@@ -1,0 +1,18 @@
+Clear
+
+New Circuit.feeder_p1udt104-p1uhs0_1247x bus1=G3_p1udt104-p1uhs0_1247x pu=1.03 basekV=12.47 R1=1e-05 X1=1e-05 R0=1e-05 X0=1e-05
+
+Redirect Loads_XZ2_G3_scale.dss
+Redirect LineCodes.dss
+Redirect Lines_XZ_G3.dss
+
+Set Voltagebases=[0.2080002494301389, 0.48, 7.199560000000001, 12.47]
+
+Calcvoltagebases
+
+Buscoords Buscoords.dss
+
+Solve
+
+!show Y
+!show power kva element

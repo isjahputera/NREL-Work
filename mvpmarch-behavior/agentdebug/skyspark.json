@@ -1,0 +1,33 @@
+{
+    "name": "feeder_0_skyspark",
+    "feeder_num": 0,
+    "loadname": "",
+    "control_parameters": {},
+    "model_parameters": {
+    
+    },
+    "helics": {
+        "deltat": 10,
+        "subscription_topic": [
+        ],
+        "publication_topic": [
+            "feeder_0_skyspark/ESIF/LV11_EVSE/Real_Power_Total",
+            "feeder_0_skyspark/ESIF/LV11_EVSE/Apparent_Power_Total",
+            "feeder_0_skyspark/ESIF/LV11_EVSE/Reactive_Power_Total",
+            "feeder_0_skyspark/ESIF/LV12_EVSE/Real_Power_Total",
+            "feeder_0_skyspark/ESIF/LV12_EVSE/Apparent_Power_Total",
+            "feeder_0_skyspark/ESIF/LV12_EVSE/Reactive_Power_Total"
+        ],
+        "endpoints": [
+        ]
+    },
+    "dertype": "",
+    "model_type": "",
+    "type": "",
+    "opendss_resoution": 10,
+    "publication_interval": 50,
+    "endpoint_interval": 10,
+    "starttime": 36000,
+    "stoptime": 82800,
+    "Agent": "SkysparkAgent"
+}
